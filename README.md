@@ -1,5 +1,6 @@
 # Geog-Learning-Wall
 The current code build for the geography learning wall. Administrated by Larry.
+- ANY PEOPLE TAKING THE JOB ON MEISTERTASK CAN NOW EDIT -
 
 -
 The current stable build can be seen under the 'Releases' tab. You can download unstable builds directly from the repository.
